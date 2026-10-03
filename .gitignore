@@ -1,0 +1,6 @@
+data/
+out/
+v1/
+test/
+*.df
+__pycache__/
